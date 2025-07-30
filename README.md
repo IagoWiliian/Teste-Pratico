@@ -14,5 +14,18 @@ no enunciado e o resultado foi satisfatório .
 ## 🚀 Como executar
 
 1. Para executar é necessário clonar o repositorio em sua maquina, utilizando o seguinte comando em seu terminal..
-2. git@github.com:IagoWiliian/Teste-Pratico.git
-   
+2. git clone git@github.com:IagoWiliian/Teste-Pratico.git 
+
+##   Endpoint para testes 
+
+Método: POST
+
+URL: http://localhost:8080/melhor-petshop
+
+Body: JSON
+
+{
+  "data": "03/08/2018",
+  "caesPequenos": 3,
+  "caesGrandes": 5
+}
