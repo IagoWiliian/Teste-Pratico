@@ -13,6 +13,6 @@ no enunciado e o resultado foi satisfatório .
 
 ## 🚀 Como executar
 
-1. Para executar é necessário clonar o repositorio em sua maquina, utilizando o seguinte comando em seu terminal 
-git clone https://github.com/seu-usuario/seu-repo.git
-cd seu-repo
+1. Para executar é necessário clonar o repositorio em sua maquina, utilizando o seguinte comando em seu terminal..
+2. git@github.com:IagoWiliian/Teste-Pratico.git
+   
